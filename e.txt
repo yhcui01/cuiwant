@@ -1,19 +1,18 @@
 
-我真服了 你一个mkdir  创建 还不加 git 脑子有泡啊
+我真服
+了 你一个mkdir  创建 还不加 git 脑子有泡啊
 呵呵呵呵呵呵呵
 zzzzzzzzzz
 https://github.com/cuiWant/cuiwant.git
 https://github.com/cuiWant/cuiwant.git
-<<<<<<< HEAD
 呵呵呵呵呵呵
 呵
 d
 d
 d
-d
-
-=======
+dOB
 你快乐吗
 我很快乐
+忘不了你好，我们的故事真的明了
+
 快乐送送 送你我他
->>>>>>> be460b09fafa9f5aad178d46447a31b12b85fd2a
