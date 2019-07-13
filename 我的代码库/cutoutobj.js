@@ -1,11 +1,9 @@
 (function  judgeobj(item,maxnum) {
     //第一个参数是判断那个对象 ， 第二个对象的属性值个数最多是多少
     let getString =  Object.prototype.toString.call(item).slice(8,-1);
-    console.dir(item);
-    console.log(getString);
-    let Arr = [];
+    //进来一定是对象
     if (getString === 'Object'){
-        //进来一定是对象
+        let Arr = [];
         let flag = 0;
         //标记对象的属性 个数
         let obj = {}
@@ -19,7 +17,6 @@
                 Arr.push(obj);
                 obj={}
                 flag = 0;
-                // let rubbish = rubbish+Arr.length
             }
         };
         //防止数据遗漏
