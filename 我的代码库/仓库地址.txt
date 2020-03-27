@@ -1,32 +1,67 @@
-1.�����Ż���https://github.com/Tianyu5177/0318_performance.git
-2 ģ�黯https://github.com/Tianyu5177/0318_modular.git��
+1.性能优化：https://github.com/Tianyu5177/0318_performance.git
+2 模块化https://github.com/Tianyu5177/0318_modular.git。
 
-3 Node js https://github.com/Tianyu5177/0318_Node.js.git��
+3 Node js https://github.com/Tianyu5177/0318_Node.js.git；
 
 
 
 01
 sc.exe create MongoDB binPath= "\"C:\Program Files\MongoDB\Server\3.2\bin\mongod.exe\" --service --config=\"C:\Program Files\MongoDB\Server\3.2\mongod.cfg\"" DisplayName= "MongoDB" start= "auto"
 
-https://github.com/Tianyu5177/0318_webpack.git
+     webpack https://github.com/Tianyu5177/0318_webpack.git
+react 地址 https://github.com/Tianyu5177/0318_react.git
+react 脚手架https://github.com/Tianyu5177/0318_react_staging.git
+https://github.com/Tianyu5177/0318_react_staging.git
+左元常牛掰的人 https://github.com/confucianzuoyuan/typescript-tutorial
+ 张晓峰
+https://github.com/zxfjd3g/190318_AdminClient.git
+
+https://github.com/zxfjd3g/190318_VueTest.git 《vue简介》 cloak
+https://juejin.im/post/5b0ba2d56fb9a00a1357a334  axios 分析
 
 
 
-
-
-
-
-
-
+https://github.com/zxfjd3g/190318_VueDemo.git  
+todolist  vue
 
 /**+Enter
+wxc3cd29c7fca7a63a  小程序id
+new work
+ 
+网络解决方案之一 ：  设置inter  代理关闭 。
+
+
+ chrome 插件：
+	infinte
+
+window 插件：
+ exe ：
+	listray 
+	BeyondCompare 4 比较文件  重置天数 (1、win+r，cmd，回车。2、REG DELETE "HKCU\Software\Scooter Software\Beyond Compare 4" /v CacheID /f) 
+	Pxcook (css 代码生成 导入psd)
+	vscode 编写代码工具 vscode 插件 => 汉化包 .  open  in  browser  .  
+	navicat 数据库连接 查询 破解 navicatOver.rar
 
 
 
 
+拖拽 放大
+
+ 2019-12-6 15:16:33 
+https://easyzoom.com/popular
+
+2019-12-6 15:16:52
+https://openseadragon.github.io/
+:
+https://codesandbox.io/s/ll1xrz9mx9
+:
+https://github.com/mnogueron/react-easy-panzoom
+
+react-zmage
+
+react 滚动条 react-custom-scrollbars
+导出pdf https://www.jianshu.com/p/56680ce1cc97
 
 
 
-
-
-
+下载 JSzip  加 FileSaver
