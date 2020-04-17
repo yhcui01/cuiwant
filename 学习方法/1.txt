@@ -1,2 +1,4 @@
+https://github.com/haizlin/fe-interview
+
 	1推测设计模式
 	2语言相似性 根据需求修改设计模式。
